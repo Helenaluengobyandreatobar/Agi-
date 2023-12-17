@@ -1,7 +1,5 @@
-# Agi-
-Eliza 
-
-
+# Agi-helenaluengo
+  Eliza 
 Para escribir código AGI para integración con GPT-4, necesitas tener en cuenta algunos aspectos importantes:
 
 AGI significa Inteligencia General Artificial, que es la capacidad de una máquina de realizar cualquier tarea intelectual que un humano pueda hacer.
